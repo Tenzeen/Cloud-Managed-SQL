@@ -6,7 +6,7 @@
   
   -Create tables containing column information within the database
   
-## sql_dummy_data.py##
+## sql_dummy_data.py
   -Create dummy information based on csv files
   
   -Insert query dummy information into corresponding tables using for loops

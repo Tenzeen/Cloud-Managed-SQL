@@ -1,6 +1,4 @@
-# PSSP-Cloud-SQL + Dumm Data
-
-## HHA 504 // Week 7 // Assignment 6
+# PSSP-Cloud-SQL + Dummy Data
 
 ### Description
 
